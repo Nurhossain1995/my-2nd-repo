@@ -5,9 +5,10 @@ h1 {
  text-decoration: underline;
 }
 .mob{
-    width:100%;
+    width:50%;
    /* margin:0 auto;*/
     margin-bottom:30px;
+    border:2px solid salmon;
 }
 .mob img{
     border:5px solid rgb(228, 114, 7);
@@ -24,4 +25,7 @@ h1 {
     border:10px solid rgb(103, 216, 10);
     padding: 10px;
     
+}
+.wrap{
+    width:100%;
 }
