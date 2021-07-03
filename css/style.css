@@ -1,0 +1,26 @@
+h1 {
+ color:blue;
+ text-align: center;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mob{
+    width:70%;
+    margin:0 auto;
+    position: relative;
+}
+.mob img{
+    border:5px solid rgb(228, 114, 7);
+    width:600px;
+    position:absolute;
+    left:250px;
+    top:170px;
+}
+.mob p{
+    background-color: #000;
+    color:orchid;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border:10px solid rgb(103, 216, 10);
+    padding: 10px;
+    
+}
