@@ -12,9 +12,7 @@ h1 {
 .mob img{
     border:5px solid rgb(228, 114, 7);
     width:600px;
-    position:absolute;
-    left:220px;
-    top:170px;
+    overflow:hidden;
    
 }
 .mob p{
