@@ -10,12 +10,7 @@ h1 {
     margin-bottom:30px;
     border:2px solid salmon;
 }
-.mob img{
-    width:50%;
-    margin:0 auto;
-    display: block;
-   
-}
+
 .mob p{
     background-color: #000;
     color:orchid;
