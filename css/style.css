@@ -6,8 +6,8 @@ h1 {
 }
 .mob{
     width:70%;
-    margin:0 auto;
-    
+   /* margin:0 auto;*/
+    margin-bottom:30px;
 }
 .mob img{
     border:5px solid rgb(228, 114, 7);
@@ -15,7 +15,7 @@ h1 {
     position:absolute;
     left:220px;
     top:170px;
-    display: block;
+   
 }
 .mob p{
     background-color: #000;
